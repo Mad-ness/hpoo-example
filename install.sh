@@ -1,4 +1,4 @@
 #!/bin/bash
 
-install index.hml ~/www/index.htmp -m 0644
+install index.html ~/www/index.htmp -m 0644
 
